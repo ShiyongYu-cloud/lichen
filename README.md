@@ -1,13 +1,13 @@
 # lichen: Inverse modeling of lichen growth curves
-Lichenometric dating represents a quick and affordable surface exposure dat-
-ing method that has been widely used to provide a minimum age constraint
-on tectonic and geomorphic landscape changes as well as buildings and an-
-thropogenic landscape changes in various settings during the late Holocene.
+Lichenometric dating represents a quick and affordable surface exposure 
+dating method that has been widely used to provide a minimum age constraint
+on tectonic and geomorphic landscape changes as well as buildings and 
+anthropogenic landscape changes in various settings during the late Holocene.
 Despite its widespread usage, this method has several limitations. Major
-problems relate to the sampling of lichen population on any given rock sur-
-face and the modeling of growth curves. In order to overcome these issues, it
-has been suggested to subdivide the rock surface into some areas and mea-
-sure the largest lichen thallus on each one. However, how to express the data
+problems relate to the sampling of lichen population on any given rock 
+surface and the modeling of growth curves. In order to overcome these issues, it
+has been suggested to subdivide the rock surface into some areas and 
+measure the largest lichen thallus on each one. However, how to express the data
 in terms of a probability distribution function and link it to an age of last
 exposure of the rock surface are still a matter of debate. 
 The code posted here is for the implementation of a novel approach to the 
