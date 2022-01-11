@@ -1,5 +1,4 @@
-# lichen
-Inverse modeling of lichen growth curves
+# lichen: Inverse modeling of lichen growth curves
 Lichenometric dating represents a quick and affordable surface exposure dat-
 ing method that has been widely used to provide a minimum age constraint
 on tectonic and geomorphic landscape changes as well as buildings and an-
