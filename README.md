@@ -1,4 +1,4 @@
-# lichen: Inverse modeling of lichen growth curves
+# lichen: A MATLAB package for inverse modeling of lichen growth curves and lichenometric dating
 Lichenometric dating represents a quick and affordable surface exposure 
 dating method that has been widely used to provide a minimum age constraint
 on tectonic and geomorphic landscape changes as well as buildings and 
